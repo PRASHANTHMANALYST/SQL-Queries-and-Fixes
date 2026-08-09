@@ -38,7 +38,7 @@ INSERT INTO STUDENTS (ST_ID, STUDENT_NAME, COURSE, MARKS) VALUES
 
 ---
 
-## 2. Query Comparison
+## **2. Query Comparison**
 
 ### ❌ Query A: Comparison Operator inside `SELECT`
 ```sql
